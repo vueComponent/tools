@@ -80,6 +80,7 @@
   ],
   "config": {
     "accesslog": true,
+    "parallel": ["es", "js"],
     "port": 3000,
     "entry": {
       "@ant-design-vue/demo-tools": [
