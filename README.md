@@ -47,6 +47,7 @@ package.json demo
         "./src/index.ts"
       ]
     },
+    "parallel": ["es", "js", "css"],
     // webpack output for build dist umd
     "output": {}, 
     // webpack css loader options
